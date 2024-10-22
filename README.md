@@ -1,5 +1,5 @@
 # RepoCreatedInOrga
 
-Test Test Test
+Test
 
 Und noch viel mehr Tests
